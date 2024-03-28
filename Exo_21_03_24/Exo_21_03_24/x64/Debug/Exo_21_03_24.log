@@ -1,0 +1,13 @@
+﻿  Main.c
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(37,7): error C2082: redéfinition du paramètre formel 'pIntArray'
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(38,2): warning C4013: 'Insert' non défini(e) ; extern retournant int pris par défaut
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(44,6): error C2371: 'Insert' : redéfinition ; types de base différents
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(48,10): warning C4477: 'scanf_s' : la chaîne de format '%d' nécessite un argument de type 'int *', mais l'argument variadique 1 est de type 'int'
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(57,2): warning C4013: 'AskIntBorne' non défini(e) ; extern retournant int pris par défaut
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(65,10): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'int *'
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(65,10): warning C4313: 'printf' : '%d' dans la chaîne de format est en conflit avec l'argument 1 de type 'int *'.
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(79,32): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(89,2): error C2198: 'Init' : pas assez d'arguments pour un appel
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(94,11): error C2143: erreur de syntaxe : absence de ';' avant '->'
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(99,11): error C2275: « IntArray » : expression attendue au lieu d’un type
+C:\Users\ehamida\source\repos\Exo_21_03_24\Exo_21_03_24\Main.c(99,2): error C2198: 'Destroy' : pas assez d'arguments pour un appel
